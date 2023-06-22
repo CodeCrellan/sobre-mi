@@ -8,3 +8,5 @@ texto agregado para prueba de pull Request
 hola si probando
 
 texto para combinar con prueba rama en repositorio
+
+mas texto para observar la pull request desde gitHub
